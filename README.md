@@ -1,7 +1,6 @@
 # CodeTrek
 
-**CodeTrek** is a full-stack web application designed to provide an insightful and interactive platform for developers. It combines a seamless frontend experience with a powerful backend, enabling users to enhance their coding journey. The project includes key features like progress tracking, resource management, and performance analytics.
-
+"In today’s tech-driven world, students are excelling in different domains—Data Structures and Algorithms (DSA) and Development. However, there's no unified platform to measure their achievements across coding platforms or track their real development contributions in a meaningful way. **CodeTrek** is here to bridge this gap."
 ---
 
 ## Features
@@ -130,7 +129,7 @@ For any questions or suggestions, feel free to reach out to:
 - **Author:** Anil Panth, Subhojit
 - **Email:** [My Mail](mailto:anilpanth44@gmail.com)
 - **GitHub:** [Anilpanth-hue](https://github.com/Anilpanth-hue)
-- - **GitHub:** [Subho-Code](https://github.com/Subho-code)
+- **GitHub:** [Subho-Code](https://github.com/Subho-code)
 
 ---
 
