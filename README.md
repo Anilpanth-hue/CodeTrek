@@ -1,7 +1,7 @@
 # CodeTrek
 
 "In today’s tech-driven world, students are excelling in different domains—Data Structures and Algorithms (DSA) and Development. However, there's no unified platform to measure their achievements across coding platforms or track their real development contributions in a meaningful way. **CodeTrek** is here to bridge this gap."
----
+--- 
 
 ## Features
 
